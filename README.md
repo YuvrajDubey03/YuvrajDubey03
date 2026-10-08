@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I’m currently working on — MERN Stack & full-stack web applications<br>🌱 I’m currently learning — Redux, TanStackQuery, ReduxThunk,TypeScript  <br>🚀 Exploring next — Next.js,DevOps with Docker, Kubernetes & AWS<br>🤖 Future focus — GenAI & AI-powered applications<br>🏗️ Building knowledge in — System Design & scalable applications<br>🤝 I’m looking to collaborate on — Open-source & real-world projects<br>💬 Ask me about — React, JavaScript, Node.js, Express.js & MongoDB
+🔨 I’m currently working on — MERN Stack & full-stack web applications<br>🌱 I’m currently learning — Redux, TanStackQuery, ReduxThunk,TypeScript  <br>🚀 Exploring next — Next.js,DevOps with Docker, Kubernetes & AWS<br>🤖 Future focus — GenAI & AI-powered applications<br>🏗️ Building knowledge in — System Design & scalable applications<br>🤝 I’m looking to collaborate on — Open-source & real-world projects<br>💬 Ask me about — React, JavaScript, Node.js, Express.js & MongoDB and dsa
 
 
 ## 🌐 Socials:
